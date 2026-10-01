@@ -2,6 +2,8 @@
 .vercel
 
 # Node
+local-server.js
+package.json
 node_modules/
 npm-debug.log*
 yarn-debug.log*
