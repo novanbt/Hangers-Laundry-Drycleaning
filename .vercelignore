@@ -1,4 +1,5 @@
-# Ignore local development server and scratch scripts on Vercel
+# Ignore Node dev server and package.json to deploy purely as Edge Static Site
+package.json
 local-server.js
 get_outlet_addrs.js
 get_outlets.js
